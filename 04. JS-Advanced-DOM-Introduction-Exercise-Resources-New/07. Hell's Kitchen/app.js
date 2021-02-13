@@ -67,6 +67,6 @@ function solve() {
          toAttach.push(`Name: ${worker.name} With Salary: ${worker.salary}`);
       })
       bestWorkers.textContent = toAttach.join(' ');
-   })
+   }
 
 }
