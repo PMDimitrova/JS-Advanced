@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a35e7d54-27ac-4462-9427-acd82114a5d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01. Sections/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01. Sections/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02. Time-Converter/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. Time-Converter/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03. Locked-Profile/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. Locked-Profile/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04. Fill-Dropdown/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/04. Fill-Dropdown/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05. Encode-and-Decode-Messages/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/05. Encode-and-Decode-Messages/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06. Furniture/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/06. Furniture/solution.js" afterDir="false" />
-    </list>
+    <list default="true" id="a35e7d54-27ac-4462-9427-acd82114a5d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +41,7 @@
       <updated>1613310392994</updated>
       <workItem from="1613310394110" duration="6609000" />
       <workItem from="1613379257267" duration="12431000" />
+      <workItem from="1613560841131" duration="184000" />
     </task>
     <servers />
   </component>
