@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a35e7d54-27ac-4462-9427-acd82114a5d6" name="Default Changelist" comment="" />
+    <list default="true" id="a35e7d54-27ac-4462-9427-acd82114a5d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../07-Unit-Testing-and-Error-Handling-Ex/test/somethingelse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04. JS-Advanced-DOM-Introduction-Lab-Resources" beforeDir="false" afterPath="$PROJECT_DIR$/../04. JS-Advanced-DOM-Introduction-Lab-Resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05. JS-Advanced-DOM-Events-Lab-Resources/07. Shopping-Cart/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/../05. JS-Advanced-DOM-Events-Lab-Resources/07. Shopping-Cart/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Unit-Testing-and-Error-Handling-Ex/test/myModule.js" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Unit-Testing-and-Error-Handling-Ex/test/myModule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Unit-Testing-and-Error-Handling-Ex/test/myModule.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Unit-Testing-and-Error-Handling-Ex/test/myModule.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +48,7 @@
       <workItem from="1613310394110" duration="6609000" />
       <workItem from="1613379257267" duration="12431000" />
       <workItem from="1613560841131" duration="184000" />
+      <workItem from="1614529563929" duration="3000" />
     </task>
     <servers />
   </component>

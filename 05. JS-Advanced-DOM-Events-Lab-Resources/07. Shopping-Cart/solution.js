@@ -6,7 +6,7 @@ function solve() {
     })
     let totalPrice = 0;
     let listOfBoughtProducts = new Set();
-    let usersOutput = document.getElementsByTagName('textarea')[0].textContent
+    let usersOutput = document.getElementsByTagName('textarea')[0].textContent;
 
     document.getElementsByClassName('checkout')[0].addEventListener('click', checkoutFunc);
 
